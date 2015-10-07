@@ -1,0 +1,8 @@
+{
+  "name": "semantic-ui-sass",
+  "description": "Semantic UI sass for Meteor apps",
+  "homepage": "https://github.com/heartcoins/semantic-ui-sass",
+  "author": "Pierre Reimertz",
+  "version": "0.0.1",
+  "git": "https://github.com/heartcoins/semantic-ui-sass.git"
+}
